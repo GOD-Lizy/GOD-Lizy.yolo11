@@ -23,3 +23,6 @@ results = model.train(data="C:\\Users\\lzy\\PycharmProjects\\YOLO11（lunwen）\
 # Run inference with the YOLO11n model on the 'bus.jpg' image
 results = model.val()
 As mentioned above, you need to input the absolute path of myyolo11.yaml in the third line of the code and the absolute path of yolo11n.pt with pre trained weights in the fifth line. On the eighth line, enter the absolute path of mycoc128, followed by the number of rounds and image size
+more......
+if you want to learn more about process of model please feel free to contact with me 
+I am looking forward to replying quetions about AI
